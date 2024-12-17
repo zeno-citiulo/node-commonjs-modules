@@ -4,4 +4,4 @@ const getHobbies = (hobbyOne, hobbyTwo, hobbyThree) => (
   }
 )
 
-console.log(getHobbies('padel, golf, poker'));
+console.log(getHobbies('padel', 'golf', 'poker'));
